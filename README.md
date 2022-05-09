@@ -30,12 +30,10 @@ I'm Simon Mor a software developer, a team leader and technologies enthusiast
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
-<details>
+<br >
 <summary>
   More stuff about me
 </summary>
-
-<br >
 
 Very-qualified, technical and motivated team leader & full Stack Developer, familiar with a wide range of programming utilities and languages backend and frontend. Experienced and building a team, taking ownership and handling projects from early stages. I am handling any part of the process with ease. I am a team player with excellent abilities and proven project leader.
 
@@ -55,5 +53,3 @@ YAML           ███████████▓░░░░░░░░░�
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=MagusM&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-</details>
