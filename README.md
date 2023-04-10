@@ -4,7 +4,8 @@ I'm Simon Mor a software developer, a team leader and technologies enthusiast
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@simon_mor-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/simon_mor)](https://twitter.com/simon_mor) [![Linkedin Badge](https://img.shields.io/badge/-Simon-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonmor/) [![Mail Badge](https://img.shields.io/badge/-simon_mor-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:simomor@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@simon_mor-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/simon_mor)](https://twitter.com/simon_mor) [![Linkedin Badge](https://img.shields.io/badge/-Simon-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonmor/) [![Mail Badge](https://img.shields.io/badge/-simon_mor-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:simomor@gmail.com) [![Website Badge](https://img.shields.io/badge/-simonmor.com-4b0082?style=flat&labelColor=4b0082&logo=internet-explorer&logoColor=white&link=https://simonmor.com)](https://simonmor.com)
+
 
 <!-- TODO: Add last video link -->
 
