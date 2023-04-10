@@ -22,10 +22,10 @@ I'm Simon Mor a software developer, a team leader and technologies enthusiast
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 #### Bizness
-<a href="https://simonmor.com" target="_blank">Portfolio</a>
-- :globe_with_meridians: [Portfolio](https://simonmor.com)
-- :paperclip: [My Resume/CV](https://github.com/MagusM/MagusM/blob/master/resume.pdf)
-- :email: simomor@gmail.com
+
+- :globe_with_meridians: <a href="https://simonmor.com" target="_blank">Portfolio</a>
+- :paperclip: <a href="https://github.com/MagusM/MagusM/blob/master/resume.pdf" target="_blank">My Resume/CV</a>
+- :email: <a href="mailto:simomor@gmail.com" target="_blank">Email me</a>
 
 
 #### Profile Visits
