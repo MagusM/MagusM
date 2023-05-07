@@ -6,6 +6,13 @@ I'm Simon Mor a software developer, a team leader and technologies enthusiast
 
 [![Twitter Badge](https://img.shields.io/badge/-@simon_mor-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/simon_mor)](https://twitter.com/simon_mor) [![Linkedin Badge](https://img.shields.io/badge/-Simon-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonmor/) [![Mail Badge](https://img.shields.io/badge/-simon_mor-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:simomor@gmail.com) [![Website Badge](https://img.shields.io/badge/-simonmor.com-4b0082?style=flat&labelColor=4b0082&logo=internet-explorer&logoColor=white&link=https://simonmor.com)](https://simonmor.com)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=magusm&label=Profile%20views&color=0e75b6&style=flat" alt="magusm" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magusm" alt="magusm" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 
 <!-- TODO: Add last video link -->
 
