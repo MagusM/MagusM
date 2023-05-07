@@ -66,4 +66,8 @@ PHP            █████████████████████�
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=MagusM&count_private=true&theme=tokyonight&hide=contribs,prs)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magusm&show_icons=true&locale=en&layout=compact" alt="magusm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magusm&show_icons=true&locale=en" alt="magusm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magusm&" alt="magusm" /></p>
