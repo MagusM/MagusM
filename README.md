@@ -16,7 +16,7 @@ I'm Simon Mor a software developer, a team leader and technologies enthusiast
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @CarWiz
+- 🔭 I’m currently working at @Doorloop
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding App ideas.
 - 📫 How to reach me: simomor@gmail.com.
