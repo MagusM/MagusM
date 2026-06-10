@@ -1,73 +1,199 @@
-## Hi I'm Simon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<div align="center">
 
-I'm Simon Mor a software developer, a team leader and technologies enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Simon%20Mor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Team%20Lead&descAlignY=58&descAlign=50" width="100%"/>
 
-:mailbox: Reach me out!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+%F0%9F%9A%80;Full-Stack+Engineer+%26+Team+Lead;LLM+Orchestration+%7C+RAG+%7C+Agents;Next.js+%C2%B7+NestJS+%C2%B7+TypeScript+%C2%B7+AI)](https://git.io/typing-svg)
 
-[![Twitter Badge](https://img.shields.io/badge/-@simon_mor-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/simon_mor)](https://twitter.com/simon_mor) [![Linkedin Badge](https://img.shields.io/badge/-Simon-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonmor/) [![Mail Badge](https://img.shields.io/badge/-simon_mor-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:simomor@gmail.com) [![Website Badge](https://img.shields.io/badge/-simonmor.com-4b0082?style=flat&labelColor=4b0082&logo=internet-explorer&logoColor=white&link=https://simonmor.com)](https://simonmor.com)
+<p>
+  <a href="https://twitter.com/simon_mor"><img src="https://img.shields.io/badge/-@simon__mor-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/simonmor/"><img src="https://img.shields.io/badge/-Simon%20Mor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:simomor@gmail.com"><img src="https://img.shields.io/badge/-simomor@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://simonmor.com"><img src="https://img.shields.io/badge/-simonmor.com-6E40C9?style=for-the-badge&logo=safari&logoColor=white"/></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magusm&label=Profile%20views&color=0e75b6&style=flat" alt="magusm" /> </p>
+<img src="https://komarev.com/ghpvc/?username=magusm&color=6E40C9&style=flat-square&label=Profile+views"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magusm" alt="magusm" /></a> </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
+## 🧠 About Me
 
-
-<!-- TODO: Add last video link -->
-
-- 🔭 I’m currently working at @Doorloop
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding App ideas.
-- 📫 How to reach me: simomor@gmail.com.
-- 😄 Entrepreneur, full stack development team leader
-- ⚡ Fun fact: I love building real stuff, 3D puzzles and to teach.
-
-#### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-#### Bizness
-
-- :globe_with_meridians: <a href="https://simonmor.com" target="_blank">Portfolio</a>
-- :paperclip: <a href="https://github.com/MagusM/MagusM/blob/master/resume.pdf" target="_blank">My Resume/CV</a>
-- :email: <a href="mailto:simomor@gmail.com" target="_blank">Email me</a>
-
-
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
-
-<br >
-<summary>
-  More stuff about me
-</summary>
-
-Very-qualified, technical and motivated team leader & full Stack Developer, familiar with a wide range of programming utilities and languages backend and frontend. Experienced and building a team, taking ownership and handling projects from early stages. I am handling any part of the process with ease. I am a team player with excellent abilities and proven project leader.
-
-#### Technologies Stats
-
-<!--START_SECTION:waka-->
-```text
-TypeScript     ████████████████████▓░░░░   82.29 %
-NodeJS         ██████████████████████▓░░   92.29 %
-React          ██████████████████████▓░░   92.29 %
-HTML           ████████████████████▓░░░░   82.29 % 
-Markdown       ████████████████████▓░░░░   82.29 % 
-YAML           ███████████▓░░░░░░░░░░░░░   50.10 % 
-PHP            ██████████████████████▓░░   90.00 %
+```typescript
+const simon: Developer = {
+  role:     "Full-Stack Engineer & Team Lead",
+  building: "Mait — AI Content Orchestration for Retail",
+  expertise: ["LLM Pipelines", "RAG", "Agent Orchestration", "Multi-tenant SaaS"],
+  stack:    ["Next.js 15", "NestJS", "TypeScript", "PostgreSQL", "Redis", "AI SDK"],
+  passion:  "Turning AI models into real products that ship",
+  fun:      "3D puzzles, teaching, building things that matter"
+};
 ```
-<!--END_SECTION:waka-->
 
-#### Github Stats
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magusm&show_icons=true&locale=en&layout=compact" alt="magusm" /></p>
+## 🚀 Currently Building
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magusm&show_icons=true&locale=en" alt="magusm" /></p>
+<table>
+<tr>
+<td width="60%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magusm&" alt="magusm" /></p>
+### [Mait](https://github.com/MagusM) — AI Content Orchestration Platform
+
+B2B SaaS that turns retail social videos into a full content machine.
+
+- 🎥 **Detects** Instagram & Facebook videos via Meta Graph API
+- 🤖 **Orchestrates** multi-model AI pipelines (GPT-4o · Claude · Gemini)
+- ✍️ **Generates** SEO blog posts, social captions & localised content
+- 🌍 **Multi-language** with RTL support (Hebrew + English)
+- ⚡ **Webhook-driven** — zero polling, real-time pipeline state
+
+</td>
+<td width="40%" align="center">
+
+**Tech DNA**
+
+`Next.js 15` `NestJS` `TypeScript`  
+`PostgreSQL + pgvector` `Redis` `BullMQ`  
+`Vercel AI SDK` `Temporal.io` `Paddle`  
+`Cloudflare R2` `Resend` `PostHog`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 AI & LLM Engineering
+
+> Building production-grade AI systems — not just prompts
+
+<table>
+<tr><td>
+
+**Models & Providers**
+
+![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_3.5-CC785C?style=flat-square&logoColor=white)
+![Google](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
+![Replicate](https://img.shields.io/badge/Replicate-000000?style=flat-square&logoColor=white)
+
+</td><td>
+
+**Techniques**
+
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6E40C9?style=flat-square&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Vector_Embeddings-6E40C9?style=flat-square&logoColor=white)
+![Agents](https://img.shields.io/badge/Agent_Orchestration-6E40C9?style=flat-square&logoColor=white)
+![Streaming](https://img.shields.io/badge/LLM_Streaming-6E40C9?style=flat-square&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Tool_Use-6E40C9?style=flat-square&logoColor=white)
+
+</td></tr>
+<tr><td>
+
+**Infra**
+
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ_Queues-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal.io-000000?style=flat-square&logoColor=white)
+
+</td><td>
+
+**Patterns**
+
+![Multi-agent](https://img.shields.io/badge/Multi--Agent_Systems-EA580C?style=flat-square&logoColor=white)
+![Webhook](https://img.shields.io/badge/Webhook--Driven-EA580C?style=flat-square&logoColor=white)
+![Multi-tenant](https://img.shields.io/badge/Multi--Tenant_AI-EA580C?style=flat-square&logoColor=white)
+
+</td></tr>
+</table>
+
+---
+
+## 🛠 Full-Stack Arsenal
+
+<details open>
+<summary><strong>Frontend</strong></summary>
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logoColor=white)
+![next-intl](https://img.shields.io/badge/i18n_RTL-6E40C9?style=flat-square&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>Backend</strong></summary>
+<br/>
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black)
+![BetterAuth](https://img.shields.io/badge/BetterAuth-000000?style=flat-square&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>Data & Infrastructure</strong></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=magusm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=magusm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=magusm&theme=tokyonight&hide_border=true" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=magusm&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=magusm&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+| 🌐 Portfolio | 📄 Resume | 📧 Email | 💼 LinkedIn |
+|:---:|:---:|:---:|:---:|
+| [simonmor.com](https://simonmor.com) | [Download CV](https://github.com/MagusM/MagusM/blob/master/resume.pdf) | [simomor@gmail.com](mailto:simomor@gmail.com) | [simonmor](https://www.linkedin.com/in/simonmor/) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" width="100%"/>
